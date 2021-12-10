@@ -42,8 +42,7 @@ function Modal(titre, texte){
 }
 
 let modal1 = new Modal("Salutation Guerrier",
-    "Il vous manque quelque choses non ?<br> Cliquez sur OK pour vous procurez ce qui vous manque",
-    "Acceptez de suivre l'aventure ?");
+    "Il vous manque quelque choses non ?<br> Cliquez sur OK pour vous procurez ce qui vous manque");
 
 modal1.addParagraph();
 modal1.addTitle();
